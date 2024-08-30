@@ -1,1 +1,1 @@
-This project is about which brand offers the best features in the market with the given price range. The data for this project is collected from Flipkart. By utilizing web scraping, I extracted the required information from the flipkart website.
+This project is about which brand offers the best features in the market with the given price range. The data for this project is collected from Flipkart. By utilizing web scraping, I extracted the required information from the flipkart website and also created columns using DAX. And then created visualization using Powerbi.
